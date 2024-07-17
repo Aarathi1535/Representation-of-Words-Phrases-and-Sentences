@@ -32,4 +32,4 @@ To run the code, you need to install the following libraries. You can install th
 !pip install openai
 ```
 ## Bonus Task
-To view the bonus task [Click here](./BonusTask)
+To view the bonus task [Click here](./Bonus Task)
