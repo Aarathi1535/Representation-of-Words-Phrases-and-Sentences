@@ -4,7 +4,7 @@ import scipy
 print(scipy.__version__)
 
 # 1. Load Pre-trained Embeddings
-embeddings_path = r"C:\Users\hp\Downloads\GoogleNews-vectors-negative300.bin.gz"  # Replace with your embedding file
+embeddings_path = r"C:\Users\hp\Downloads\GoogleNews-vectors-negative300.bin.gz" 
 model = KeyedVectors.load_word2vec_format(embeddings_path, binary=True)
 
 # 2. Similarity Calculation
