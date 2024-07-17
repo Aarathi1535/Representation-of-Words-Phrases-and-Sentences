@@ -31,8 +31,5 @@ To run the code, you need to install the following libraries. You can install th
 !pip install datasets
 !pip install openai
 ```
-
-## Paper Reading Task
-```bash
-      git add Paper Reading Report.pdf/ README.md
-```
+## Bonus Task
+To view the bonus task [Click here](./BonusTask)
