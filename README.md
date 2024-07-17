@@ -34,5 +34,5 @@ To run the code, you need to install the following libraries. You can install th
 
 ## Paper Reading Task
 ```bash
-      git add PaperReadingTask/ README.md
+      git add Paper Reading Report.pdf/ README.md
 ```
