@@ -1,5 +1,5 @@
 # Representation of Words, Phrases, and Sentences
-
+Submission for Precog Recruitment Task-1:  Representation of Words, Phrases, and Sentences
 This repository contains implementations for the following tasks:
 
 1. **Word Similarity**
