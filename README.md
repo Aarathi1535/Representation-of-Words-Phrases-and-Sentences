@@ -1,12 +1,18 @@
-# Representation-of-Words-Phrases-and-Sentences
-The tasks listed are:
-1. Word similarity
-2. Phrase and Sentence Similarity
-3. Bonus Task
+# Representation of Words, Phrases, and Sentences
+
+This repository contains implementations for the following tasks:
+
+1. **Word Similarity**
+2. **Phrase and Sentence Similarity**
+3. **Bonus Task**
 
 The tasks were implemented on Google Colab.
 
-The libraries necessary for implementing are:
+## Required Libraries
+
+To run the code, you need to install the following libraries. You can install them using the provided commands:
+
+```bash
 !pip install nltk
 !pip install gensim
 !pip install numpy
@@ -24,11 +30,3 @@ The libraries necessary for implementing are:
 !pip install transformers
 !pip install datasets
 !pip install openai
-
-For NLTK data like WordNet:
-import nltk
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('punkt')
-nltk.download('sentiwordnet')
-
