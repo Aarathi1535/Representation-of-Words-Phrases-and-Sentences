@@ -31,5 +31,13 @@ To run the code, you need to install the following libraries. You can install th
 !pip install datasets
 !pip install openai
 ```
+## Word Similarity Task
+To view the word similarity task [Click here](./WordSimilarity)
+## Phrase and Sentence Similarity Task
+To view the phrase and sentence similarity task [Click here](./Phrase&SentenceSimilarity)
 ## Bonus Task
-To view the bonus task [Click here](./Bonus Task)
+To view the bonus task [Click here](./BonusTask)
+## Paper Reading Task
+The paper reading task report is [here](./PaperReadingReport)
+## Programming Task
+The programming report is [here](./ProgrammingReport)
