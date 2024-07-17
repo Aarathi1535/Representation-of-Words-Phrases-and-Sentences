@@ -30,3 +30,9 @@ To run the code, you need to install the following libraries. You can install th
 !pip install transformers
 !pip install datasets
 !pip install openai
+```
+
+## Paper Reading Task
+```bash
+      git add PaperReadingTask/ README.md
+```
