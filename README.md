@@ -7,6 +7,8 @@ This repository contains implementations for the following tasks:
 3. **Bonus Task**
 
 The tasks were implemented on Google Colab.
+A complete data flow diagram of the approach is depicted in the image:
+![image](DataFlowDiagram.png)
 
 ## Required Libraries
 
