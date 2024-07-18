@@ -8,7 +8,7 @@ This repository contains implementations for the following tasks:
 
 The tasks were implemented on Google Colab.
 A complete data flow diagram of the approach is depicted in the image:
-![the-image](DataFlowDiagram.png)
+![the-image](Diagram.png)
 
 ## Required Libraries
 
